@@ -1,1 +1,1 @@
-<img src="https://media4.giphy.com/media/g8uk5CmBJC3xVRPO1J/giphy.gif?cid=ecf05e47ke56m63y3funsi2b7uhuf6ul1juti0lk0df20ez2&rid=giphy.gif&ct=g" width="20px"> I'm "Dilshod Mahmudov"
+<img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" width="20px"> I'm "Dilshod Mahmudov"
