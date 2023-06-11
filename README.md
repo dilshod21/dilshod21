@@ -8,6 +8,6 @@ I love "My-profession" ! <img src="https://nuotraukos.mediakatalogas.lt/thumbs/h
 
 <div style="display: flex; align-items: center;">
   <img src="https://element-software.co.uk/wp-content/uploads/2020/04/react.png" style="width: 100px; height: auto;">
-  <img src="https://www.incomple.technology/assets/javascript.png" style="width: 100px; height: auto;">
+  <img src="https://sujanbyanjankar.com.np/wp-content/uploads/2019/09/javascript-300x300.png" style="width: 100px; height: auto;">
   <img src="https://nuotraukos.mediakatalogas.lt/thumbs/heart-2487935_1280.png" style="width: 100px; height: 100px">
 </div>
